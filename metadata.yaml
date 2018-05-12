@@ -1,0 +1,37 @@
+_repo: A-Voyage-to-New-Holland-Etc.-in-the-Year-1699_15675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dampier, William
+    aliases:
+    - Dampier, Guillaume
+    - Dampier, Captain (William)
+    birthdate: 1652
+    deathdate: 1715
+    gutenberg_agent_id: '6190'
+    url: http://www.gutenberg.org/2009/agents/6190
+    wikipedia: http://en.wikipedia.org/wiki/William_Dampier
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Pre-Linnean works'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcsh 'Salvador (Brazil) -- Description and travel -- Early works to 1800'
+- !lcsh 'Shark Bay (W.A.) -- Discovery and exploration -- Early works to 1800'
+- !lcsh 'Voyages and travels -- Early works to 1800'
+- !lcsh 'Canary Islands -- Description and travel -- Early works to 1800'
+- !lcsh 'Buccaneers -- Early works to 1800'
+- !lcc 'G'
+title: A Voyage to New Holland, Etc. in the Year 1699
+url: http://www.gutenberg.org/ebooks/15675
